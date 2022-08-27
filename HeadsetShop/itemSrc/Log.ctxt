@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\r\n\ This\ is\ a\ buffer\ for\ storing\ logs\ in\ memory\r\n\ This\ class\ is\ provided\ with\ full\ implementation.\r\n\ Use\ it\ as\ you\ choose.\r\n\ @author\ John\ Kanyaru\r\n\r\n
+comment1.params=
+comment1.target=Log()
+comment2.params=
+comment2.target=Log\ getInstance()
+comment3.params=s
+comment3.target=void\ addEntry(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

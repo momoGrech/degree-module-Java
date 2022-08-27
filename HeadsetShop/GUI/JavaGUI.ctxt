@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=JavaGUI
+comment0.text=\r\n\ GUI\ class\ is\ responisble\ for\ displaying\ list\ of\ orders,\ processed\ orders,\ failed\ orders\ and\ warehouse\ items.\r\n\r\n\ @author\ (Mohammed\ Fuad\ Gurun)\r\n\ @version\ 1.0\r\n\ @since\ \ \ 14/12/2021\r\n
+comment1.params=manager
+comment1.target=JavaGUI(itemSrc.Manager)
+comment1.text=\r\n\ this\ method\ is\ an\ overloaded\ constructor\r\n\ @param\ manager\ This\ parameter\ contains\ all\ the\ information\ related\ to\ orders\ and\ items\r\n
+comment2.params=
+comment2.target=void\ initializeGUIComponents()
+comment2.text=\r\n\ this\ method\ is\ responsible\ for\ initialising\ the\ graphical\ user\ interface\ components\r\n\ such\ as\ text\ area,\ labels\ and\ buttons\r\n\ @param\ manager\ This\ parameter\ contains\ all\ the\ information\ related\ to\ orders\ and\ items\r\n\ @return\ Nothing\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ this\ method\ is\ responsible\ for\ Action\ perfomed\ based\ on\ the\ button\ clicked\r\n\ such\ as\ text\ area,\ labels\ and\ buttons\r\n\ @param\ ActionEvent\ This\ indicates\ that\ a\ component-defined\ action\ occurred\r\n\ @return\ Nothing\r\n
+comment4.params=
+comment4.target=void\ populateHeadsetList()
+comment4.text=\r\n\ this\ method\ populate\ and\ display\ headset\ list\r\n\ @return\ Nothing\r\n
+comment5.params=
+comment5.target=void\ updatingTextArea()
+comment5.text=\r\n\ this\ method\ is\ responsible\ for\ updating\ text\ area\r\n\ @return\ Nothing\r\n
+comment6.params=updatedQTY\ HSTID
+comment6.target=void\ populateWarhouse(int,\ java.lang.String)
+comment6.text=\r\n\ this\ method\ is\ responsible\ for\ Populating\ data\ into\ the\ warehouse\r\n\ @param\ updatedQTY\ First\ parameter\ which\ carries\ the\ updated\ quantity\r\n\ @param\ HSTID\ Second\ Parameter\ which\ carries\ the\ headset\ ID\r\n\ @return\ Nothing\r\n
+comment7.params=
+comment7.target=void\ displayNextElement()
+comment7.text=\r\n\ this\ method\ is\ responsible\ for\ Displaying\ next\ order(process\ one\ order)\ \r\n\ @return\ Nothing\r\n
+numComments=8

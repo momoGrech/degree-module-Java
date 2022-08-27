@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exceptions
+comment0.text=\r\n\ This\ class\ is\ responible\ for\ handling\ exptions\ and\ illigal\ arguments\r\n\r\n\ @author\ (Mohammed\ Fuad\ Gurun)\r\n\ @version\ 1.0\r\n\ @since\ 01/12/2021\r\n
+comment1.params=
+comment1.target=Exceptions()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ headsetEmailException\r\n
+comment2.params=message
+comment2.target=Exceptions(java.lang.String)
+comment3.params=cause
+comment3.target=Exceptions(java.lang.Throwable)
+comment4.params=message\ cause
+comment4.target=Exceptions(java.lang.String,\ java.lang.Throwable)
+numComments=5
